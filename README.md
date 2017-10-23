@@ -5,7 +5,7 @@ A CLASSIC GAME.
 
 # Description
 
-A SIMPLE two-player tic tac toe game made with SIMPLE DirectMedia Layer.
+A simple two-player tic tac toe game made with simple DirectMedia Layer.
 
 All textures were made by me.
 
